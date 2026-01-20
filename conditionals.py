@@ -9,3 +9,5 @@ if (budget >= 1500 && weatherSunny) {
 } else {
   console.log("Let's stay home and save for a bigger trip next time.");
 }
+
+
