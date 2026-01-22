@@ -11,3 +11,12 @@ if (budget >= 1500 && weatherSunny) {
 }
 
 
+let weather = "sunny";
+let budget = 150;
+
+// Decide where to go based on weather and budget
+if (weather === "sunny" && budget >= 150) {
+    console.log("Let's go to the beach!");
+} else if (weather === "rainy" || budget < 150) {
+    console.log("How about visiting a museum?");
+}
