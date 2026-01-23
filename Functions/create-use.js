@@ -1,6 +1,6 @@
 // A function to greet a friend by name
 function greetFriend(friendName) {
-  return "Hello, " + friendName + "! Welcome to my party.";
+  return "Hello, " + friendName + "! Welcome to my nice party.";
 }
 
 // Call the function with "Alice" as a parameter
