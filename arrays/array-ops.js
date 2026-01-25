@@ -1,5 +1,5 @@
 // Array of fruits
-let fruits = ["Apple", "Banana", "Orange", "Grapes", "Mango"];
+let fruits = ["Apple", "Banana", "Orange", "Grapes", "Mango", "Tomato"];
 
 // Access the third fruit
 console.log(fruits[2]); // "Orange"
